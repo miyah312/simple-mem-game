@@ -1,4 +1,4 @@
-# Pre-work - _Memory Game_
+#  _Memory Game_
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
